@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF: 1, SPORT PREMIER
+http://starjktv.com:8080/live/best/best123/17188.m3u8
+#EXTINF: 1, FUTBOL
+http://starjktv.com:8080/live/best/best123/17682.m3u8
+#EXTINF: 1, LA LIGA
+http://starjktv.com:8080/live/best/best123/17684.m3u8
+#EXTINF: 1, SKY EVENTO
+http://starjktv.com:8080/live/best/best123/92261.m3u8
+#EXTINF: 1, SKY PREMIER LEAGUE
+http://starjktv.com:8080/live/best/best123/12138.m3u8
+#EXTINF: 1, SKY PREMIER 2
+http://starjktv.com:8080/live/best/best123/40826.m3u8
+#EXTINF: 1, SKY PREMIER 3
+http://starjktv.com:8080/live/best/best123/20246.m3u8
+#EXTINF: 1, BT SPORT/ESPN
+http://starjktv.com:8080/live/best/best123/12154.m3u8
+#EXTINF: 1, BT SPORTS
+http://starjktv.com:8080/live/best/best123/92064.m3u8
+#EXTINF: 1, BT SPORTS 2
+http://starjktv.com:8080/live/best/best123/12151.m3u8
+#EXTINF: 1, LA LIGA UK
+http://starjktv.com:8080/live/best/best123/41179.m3u8
+#EXTINF: 1, BEINSPORT ARAB
+http://starjktv.com:8080/live/best/best123/89049.m3u8
+#EXTINF: 1, BEINSPORT ARAB 2
+http://starjktv.com:8080/live/best/best123/89344.m3u8
+#EXTINF: 1, FS 1
+http://starjktv.com:8080/live/best/best123/12456.m3u8
+#EXTINF: 1, FS 2
+http://starjktv.com:8080/live/best/best123/12457.m3u8
+#EXTINF: 1, ESPN USA
+http://starjktv.com:8080/live/best/best123/13827.m3u8
+#EXTINF: 1, ESPN USA 2
+http://starjktv.com:8080/live/best/best123/13828.m3u8
+#EXTINF: 1, BEINSPORT USA
+http://starjktv.com:8080/live/best/best123/13751.m3u8
+#EXTINF: 1, TVE
+http://la.iptvdinmax.eu:2052/live/Jonathan/Jonathan/198892.m3u8
+#EXTINF: 1, LA 1
+http://la.iptvdinmax.eu:2052/live/Jonathan/Jonathan/198893.m3u8
+#EXTINF: 1, LA 2
+http://la.iptvdinmax.eu:2052/live/Jonathan/Jonathan/198894.m3u8
+#EXTINF: 1, ANTENA 3
+http://la.iptvdinmax.eu:2052/live/Jonathan/Jonathan/198895.m3u8
+#EXTINF: 1, QUATRO
+http://la.iptvdinmax.eu:2052/live/Jonathan/Jonathan/198896.m3u8
+#EXTINF: 1, TELECINCO
+http://la.iptvdinmax.eu:2052/live/Jonathan/Jonathan/198897.m3u8
+#EXTINF: 1, MOVISTAR LA LIGA
+http://la.iptvdinmax.eu:2052/live/Jonathan/Jonathan/198977.m3u8
+#EXTINF: 1, LIGA DE CAMPEONES
+http://la.iptvdinmax.eu:2052/live/Jonathan/Jonathan/198984.m3u8
+#EXTINF: 1, CAMPEONES
+http://la.iptvdinmax.eu:2052/live/Jonathan/Jonathan/56334.m3u8
+#EXTINF: 1, CAMPEONES 2
+http://la.iptvdinmax.eu:2052/live/Jonathan/Jonathan/56336.m3u8
+#EXTINF: 1, DANZ ESP 
+http://la.iptvdinmax.eu:2052/live/Jonathan/Jonathan/198986.m3u8
